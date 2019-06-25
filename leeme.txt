@@ -1,0 +1,31 @@
+Proyecto ControlCalidad 
+##################################
+
+
+***Instrucciones
+====================
+1. Habilitar la pestaña desarrollador o developer del Excel
+2. En la pantalla "Login" solicitará credenciales:  
+   Usuario:user
+   Contraseña: root 
+3. Abrir los 2 libros a comparar 
+4. Indicar el nombre de los libros, hojas y rango de columnas
+de la pestaña "Configuraciones".
+5. Presionar botón "Imprimir Reporte" para generar PDF de los errores encontrads
+desde la pestaña "Reporte"(luego de terminada la comparación)
+
+***Consideraciones
+====================
+1. Se resaltaran en color rojo los datos que no son iguales a los de origen 
+2. Los datos agregados en la pestaña "Configuraciones" del formulario, 
+se almacenarán en la pestaña "Config" del libro 
+3. Se recomienda la comparación de un maximo de 50 filas por 15 columnas, 
+para evitar se relentice el sistema(depende de la memoria y procesador 
+de la PC), ya que la evaluación de celda por celda.
+
+
+PD. Algunos otros proyectos que puedan interesar:
+https://github.com/manuel-martin3?tab=repositories 
+
+¡¡¡ Que lo disfruten.....!!! 
+
